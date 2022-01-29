@@ -2,8 +2,7 @@
 ##  Índice::
 - [Stepper](#stapper)
 - [Implementação](#implementação)
-- [Explicação](#explicacao)
-- [Codigo](#codigo)
+
 
 ## Stepper
 Stepper é widget que mostra o processo de etapas, esse widget é muito valioso ser ultilizados em formularios onde 
@@ -13,8 +12,8 @@ dando a função dele abrir e fechar a etapa sem sair do pagina.
 <p align="center"><img src="https://github.com/iBy3l/Stepper_Flutter/blob/main/assets/stepper.gif" width="200"></p>
 
 
-No Video mostra como é ultilizado esse widget e com um botão flutuante que quando é tocado ele mostra as etapas.
-No video é ultilizado as seguintes ferramentas do Stepper:
+No Video mostra como é utilizado esse widget e com um botão flutuante que quando é tocado ele mostra as etapas. No video é ultilizado 
+as seguintes ferramentas do Stepper:
 
 ## Implementação
 - type: stepperType,
@@ -32,6 +31,9 @@ No video é ultilizado as seguintes ferramentas do Stepper:
  - [ ] onStepContinue: O retorno de chamada chamado quando o botão 'continuar' é tocado.
  - [ ] onStepCancel: O retorno de chamada chamado quando o botão 'cancelar' é tocado.
  - [ ] steps: Os steps são passos do stepper cujos títulos, legendas, ícones sempre são mostrados.
+  
+  
 
 
 
+<p align="center"><img src="https://github.com/iBy3l/Stepper_Flutter/blob/main/assets/iby3l.png" width="40"></p>
