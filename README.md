@@ -1,7 +1,7 @@
 ![APRESENTAÇÃO](https://github.com/iBy3l/Stepper_Flutter/blob/main/assets/ABERTURA.jpg)
 ##  Índice::
 - [Stepper](#stapper)
-- [Implementar](#Implementara)
+- [Implementação](#implementação)
 - [Explicação](#explicacao)
 - [Codigo](#codigo)
 
@@ -18,6 +18,7 @@ dando a função dele abrir e fechar a etapa sem sair do pagina.
 No Video mostra como é ultilizado esse widget e com um botão flutuante que quando é tocado ele mostra as etapas.
 No video é ultilizado as seguintes ferramentas do Stepper:
 
+## Implementação
 - type: stepperType,
 - physics: ScrollPhysics(),
 - currentStep: _etapaAtual,
@@ -26,5 +27,6 @@ No video é ultilizado as seguintes ferramentas do Stepper:
 - onStepCancel: cancel,
 - steps: <Step>[...]
   
+ No Type tem dois tipos de opções para você determinar o tipo de layout <StepperType.horizontal> <StepperType.vertical> 
 
 
