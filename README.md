@@ -12,7 +12,7 @@ dando a função dele abrir e fechar a etapa sem sair do pagina.
 
 <img src="https://github.com/iBy3l/Stepper_Flutter/blob/main/assets/stepper.gif" width="200">
 
-
+<p align="center"><img src="https://github.com/iBy3l/Stepper_Flutter/blob/main/assets/stepper.gif" width="200"></p>
 
 
 No Video mostra como é ultilizado esse widget e com um botão flutuante que quando é tocado ele mostra as etapas.
