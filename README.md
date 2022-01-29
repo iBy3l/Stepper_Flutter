@@ -15,13 +15,13 @@ dando a função dele abrir e fechar a etapa sem sair do pagina.
 No Video mostra como é ultilizado esse widget e com um botão flutuante que quando é tocado ele mostra as etapas.
 No video é ultilizado as seguintes ferramentas do Stepper:
 # Stepper
-type: stepperType,
-physics: ScrollPhysics(),
-currentStep: _etapaAtual,
-onStepTapper: (step) => tapper(step),
-onStepContinue: continued,
-onStepCancel: cancel,
-steps: <Step>[...]
+- type: stepperType,
+- physics: ScrollPhysics(),
+- currentStep: _etapaAtual,
+- onStepTapper: (step) => tapper(step),
+- onStepContinue: continued,
+- onStepCancel: cancel,
+- steps: <Step>[...]
   
 
 
