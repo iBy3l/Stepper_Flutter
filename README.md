@@ -11,37 +11,13 @@ pode mostrar etapas concluidas em livre acesso do usuario sem deixar o app pului
 dando a função dele abrir e fechar a etapa sem sair do pagina.
 
 
-![app]("https://github.com/iBy3l/Stepper_Flutter/blob/main/assets/stepper.gif")
-
-
-
-
-
-
-
-
-
-
-
-
-
+![app](https://github.com/iBy3l/Stepper_Flutter/blob/main/assets/stepper.gif)
 
 
 
 
 No Video mostra como é ultilizado esse widget e com um botão flutuante que quando é tocado ele mostra as etapas.
 No video é ultilizado as seguintes ferramentas do Stepper:
-
-
-
-
-
-
-
-
-
-
-
 
 - type: stepperType,
 - physics: ScrollPhysics(),
