@@ -10,8 +10,7 @@ Stepper é widget que mostra o processo de etapas, esse widget é muito valioso 
 pode mostrar etapas concluidas em livre acesso do usuario sem deixar o app puluido, mostrando o formulario completo 
 dando a função dele abrir e fechar a etapa sem sair do pagina.
 
-
-![app](https://github.com/iBy3l/Stepper_Flutter/blob/main/assets/stepper.gif = 200x400)
+<img src="https://github.com/iBy3l/Stepper_Flutter/blob/main/assets/stepper.gif" width="200">
 
 
 
