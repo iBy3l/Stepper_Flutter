@@ -25,6 +25,6 @@ No video é ultilizado as seguintes ferramentas do Stepper:
 - onStepCancel: cancel,
 - steps: <Step>[...]
   
- No Type tem dois tipos de opções para você determinar o tipo de layout 'StepperType.horizontal' 'StepperType.vertical' 
+ No Type tem dois tipos de opções para você determinar o tipo de layout `StepperType.horizontal` `StepperType.vertical`
 
 
