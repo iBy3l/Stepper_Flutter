@@ -36,4 +36,4 @@ as seguintes ferramentas do Stepper:
 
 
 
-<p align="center"><img src="https://github.com/iBy3l/Stepper_Flutter/blob/main/assets/iby3l.png" width="40"></p>
+<p align="center"><img src="https://github.com/iBy3l/Stepper_Flutter/blob/main/assets/iby3l.png" width=100"></p>
