@@ -11,7 +11,7 @@ pode mostrar etapas concluidas em livre acesso do usuario sem deixar o app pului
 dando a função dele abrir e fechar a etapa sem sair do pagina.
 
 
-![app](https://github.com/iBy3l/Stepper_Flutter/blob/main/assets/stepper.gif = 250x)
+![app](https://github.com/iBy3l/Stepper_Flutter/blob/main/assets/stepper.gif {width=200px height=400px})
 
 
 
