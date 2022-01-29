@@ -5,3 +5,5 @@
 - [Explicação](#explicacao)
 - [Codigo](#codigo)
 
+## sstapper
+Stepper é widget que mostra o processo de etapas, esse widget é muito valioso ser ultilizados em formularios onde pode mostrar etapas concluidas em livre acesso do usuario sem deixar o app puluido, mostrando o formulario completo dando a função dele abrir e fechar a etapa sem sair do pagina.
